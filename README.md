@@ -7,10 +7,15 @@ create state machine for arch_evm_new project
 result_without_rule= aaaa
 
 rule_table:
+ 
  X[1] X[0]
+ 
    0    0 : 0
+   
    0    1 : 1
+   
    1    0 : 0
+   
    1    1 : 0
 
 result_with_rule_and_wrong_key= aaaa

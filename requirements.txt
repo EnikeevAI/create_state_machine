@@ -1,0 +1,2 @@
+pyeda==0.28.0
+python-statemachine==0.8.0
